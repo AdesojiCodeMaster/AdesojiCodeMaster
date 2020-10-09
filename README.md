@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Adesoji.
 
-![Adesoji's github stats](https://github-readme-stats.vercel.app/api?username=AdesojiCodeMaster&show_icons=true&theme=radical)
+![Adesoji's github stats](https://github-readme-stats.vercel.app/api?username=AdesojiCodeMaster&show_icons=true&theme=radical) [![Adesoji's github stats](https://github-readme-stats.vercel.app/api?username=AdesojiCodeMaster)](https://github.com/AdesojiCodeMaster/github-readme-stats)
 
 <!--
 **AdesojiCodeMaster/AdesojiCodeMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
